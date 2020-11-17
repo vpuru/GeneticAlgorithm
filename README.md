@@ -1,2 +1,2 @@
-# GeneticAlgorithm
-To run this project, decompress the zip file and run index.html file
+# Varun Purushothaman's Genetic Algorithim
+Hello! Thank you for visiting my page
