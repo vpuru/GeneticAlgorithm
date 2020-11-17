@@ -6,6 +6,6 @@ The project focuses on the artificial intelligence of drones whose goal is to tr
 
 After drawing a couple of obstacles, we can wait for a couple generations and watch our drones take action!
 
-![Display Image](pic1.png)
+![Display Image](resources/pic1.png)
 
 ### Thank you!
