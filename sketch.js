@@ -22,7 +22,7 @@ function setup() {
   obstacles.push(new Obstacle(0, -100, width, 100));
   obstacles.push(new Obstacle(-50, 0, 50, height));
   obstacles.push(new Obstacle(width, 0, 50, height));
-  obstacles.push(new Obstacle(width, height + 50, -width, -20));
+  obstacles.push(new Obstacle(width, height + 20, -width, -20));
 
   // Additional Obstacle if wanted
   // obstacles.push(new Obstacle(width/2, height/2 + 150, 75, -height / 2 + 100));
