@@ -8,7 +8,7 @@ After unpacking the ZIP, run the index.html file. To place obstacles, simply cli
 
 ### Drones in Action
 
-After drawing a couple of obstacles, wait for a couple generations and watch the drones take action!
+After drawing a couple of obstacles, watch the drones take action, getting better and better after each generation!
 
 ![Display Image](resources/pic1.png)
 
